@@ -729,6 +729,7 @@ div.columns {
 }
 
 div.keeptogether {
+  margin-top: 15px;
   display: inline-block;
   width: 100%;
 }
